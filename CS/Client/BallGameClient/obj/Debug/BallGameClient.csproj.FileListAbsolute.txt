@@ -1,0 +1,8 @@
+C:\Users\ryans\Documents\University\Year3\CE303\Assignment\CS\Client\BallGameClient\bin\Debug\BallGameClient.exe.config
+C:\Users\ryans\Documents\University\Year3\CE303\Assignment\CS\Client\BallGameClient\bin\Debug\BallGameClient.exe
+C:\Users\ryans\Documents\University\Year3\CE303\Assignment\CS\Client\BallGameClient\bin\Debug\BallGameClient.pdb
+C:\Users\ryans\Documents\University\Year3\CE303\Assignment\CS\Client\BallGameClient\obj\Debug\BallGameClient.ClientGUI.resources
+C:\Users\ryans\Documents\University\Year3\CE303\Assignment\CS\Client\BallGameClient\obj\Debug\BallGameClient.Properties.Resources.resources
+C:\Users\ryans\Documents\University\Year3\CE303\Assignment\CS\Client\BallGameClient\obj\Debug\BallGameClient.csproj.GenerateResource.cache
+C:\Users\ryans\Documents\University\Year3\CE303\Assignment\CS\Client\BallGameClient\obj\Debug\BallGameClient.exe
+C:\Users\ryans\Documents\University\Year3\CE303\Assignment\CS\Client\BallGameClient\obj\Debug\BallGameClient.pdb

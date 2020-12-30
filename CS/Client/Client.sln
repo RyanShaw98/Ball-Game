@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallGameClient", "BallGameClient\BallGameClient.csproj", "{A2ACD3EE-B1FF-4E3E-AA4E-21322F3E3E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2ACD3EE-B1FF-4E3E-AA4E-21322F3E3E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2ACD3EE-B1FF-4E3E-AA4E-21322F3E3E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2ACD3EE-B1FF-4E3E-AA4E-21322F3E3E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2ACD3EE-B1FF-4E3E-AA4E-21322F3E3E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F7459B-0713-493D-BC78-EE158AA5F904}
+	EndGlobalSection
+EndGlobal
